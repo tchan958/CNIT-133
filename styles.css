@@ -1,0 +1,19 @@
+
+h1 {
+    margin:auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+body{
+    background: lightblue no-repeat fixed center;
+}
+
+table{
+    margin: auto;
+    padding: 10px;
+    border: 3px solid red;
+    text-align: center;
+}
